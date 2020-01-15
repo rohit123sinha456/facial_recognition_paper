@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gmailsendingpaper",
+  "private_key_id": "e507701d62a810f8f73909f29f32370abf7f6f0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCflvzLEcxvKDxY\ngY7san8iNMJ/XAqq8uKxjzYUA5hWQDAJSamylV+5kVjBs/Zgm0GgFD5mtfQzZJO8\n8m2c95mV/SGWWpPgwKB5CIMUm66nGr+f3Lz/VN8qC/G1CqpmhnBPldbK3NB/+qHb\nXpI91wN0Ec5nnGDLO4kl5PMWWhjHBqzwUP10s+MbHIgg6C3RIS5xMUzsuvONp/px\n6ensle04PyP3Z1O2Q31oaOZu3lt0IMAwlAkRxvXRpTmu1FgOm3GHXOG9lsimfdqo\nF44R/anBggQ3lz4AdpZkT/OGys3VOjjhin7muDqPB3uQFSc96FqWodHXwdlwV/bm\n7GSKvhiBAgMBAAECggEAMave9p2NkbNmRO3ePDtRYqYlO1q8f0SlxjoazNPpoD7O\nNLXWuZzAdJOGmpOWxa7NGDP00Ccl4LEXQqH59/cguIxW3eNHT5bk24cItWtXSu+K\nYQllUdtqsj2Rd5XgP5Tsc/jhJ7betlad9hdTUSgRDRlVsu37OoZHQ6Ik/vn/6EHv\nbf7RE6YYjogfUZk6FZR/fDPjD5BkB6lhpPLW6vGF+Qr6V8liKIcFJMvjD7Kxl/rh\nKwYGi1tR4udPShuI4MuGKE38gJoRztp7vUZmMKpk6wE2hpNvq1miPmO7vEcV7CPj\nP9mcg6gzK6Ptgl2HewF/oEk2RxdOAEoa+AfN2ilGGQKBgQDayRC/37wTGCxQ8LIF\n08iYuaOCnVYEUvIEOiof6XEZgxDLaxDHEHTlgTK/nqifABVYVmd+kiPxQieM/x6W\nsqe3c9Tog3N0imTRQelFODGScTKEfU6291bRF7DGZBJfcOiUjk+DVCwEgoviiOv3\n9tKTqMvWA1Mg7j6sywo30fHL+wKBgQC6vET/Bo7jztI47HvJ+mbnYp8k2sJWqve1\nbeKHpjddYHrikPXDN6BJfdOiSbML9pYYvJcyziC0nNRRreR0eONMlw5TjnGC74pu\n7wbomiKRSNqjC/X4Bzmnh6Ii+EPjGAQJ72uFwofolzMRaAK7jsKCwkA6IB2h5dJd\nYmf8p6PoswKBgA62TJkKe4QxMPG0bdQ0fJ3Ahf1HhTw/M6UTIDgLI57akGuNZJBu\nS94PBRGboq0mfUj2bnk1bJNRpoU1tqHdm6ebc2q7RC1HDSaBLyWHdNXrJMGCB6QI\nF99xn2KH4jBm0E0FENW8+ETJXoy6NlvzTg+93w8iJBnny3ElKie8x2y3AoGAWIuV\nm+gcMWGMxXk9aZTW3rkhBXTF2hrPwrQMSo5CioCJRI3AO4VQ+Ag2JioUQIP4wFoM\nyAZ986a59tEiFyiLf3HRVUWiBZhYaCnneLw9z+5f3hh51dZ3PD1QYIyghDqLD7r7\nnT2U/HFVwdc0FIOpMB+0HNvFsVMs4SMcc+16B4kCgYEAw2/7c/8UmZbNg5nxrF5r\n4ivtMU+XMF+LsAYsfu+9xJKAbBKNQnBM1Re76/lymStjfU6i4LYnfnR5To0zgZQS\n2hw2KdRiFxP+lkEOFta+WcpfdQjMuV9OcaRJ/2uKQPPST6smb5Eb8vdVlFv21tbK\nWjRVQsJYgwSnBrBqMSrxRVw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rohit-sinha@gmailsendingpaper.iam.gserviceaccount.com",
+  "client_id": "117133314642829575607",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rohit-sinha%40gmailsendingpaper.iam.gserviceaccount.com"
+}
